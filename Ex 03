@@ -1,6 +1,9 @@
 for c in range(0,21,2):
     print(c)
+
 print('FIM')
+
 for c in range(0,21,2):
     print(c, end=' -> ')
+
 print('FIM')
